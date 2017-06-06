@@ -1,0 +1,7 @@
+c:\users\andrey\documents\visual studio 2015\Projects\YandexMusicCacheExtractor\YandexMusicCacheExtractor\bin\Debug\YandexMusicCacheExtractor.exe.config
+C:\Users\Andrey\documents\visual studio 2015\Projects\YandexMusicCacheExtractor\YandexMusicCacheExtractor\bin\Debug\YandexMusicCacheExtractor.exe
+C:\Users\Andrey\documents\visual studio 2015\Projects\YandexMusicCacheExtractor\YandexMusicCacheExtractor\bin\Debug\YandexMusicCacheExtractor.pdb
+C:\Users\Andrey\documents\visual studio 2015\Projects\YandexMusicCacheExtractor\YandexMusicCacheExtractor\bin\Debug\System.Data.SQLite.dll
+C:\Users\Andrey\documents\visual studio 2015\Projects\YandexMusicCacheExtractor\YandexMusicCacheExtractor\obj\Debug\YandexMusicCacheExtractor.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\documents\visual studio 2015\Projects\YandexMusicCacheExtractor\YandexMusicCacheExtractor\obj\Debug\YandexMusicCacheExtractor.exe
+C:\Users\Andrey\documents\visual studio 2015\Projects\YandexMusicCacheExtractor\YandexMusicCacheExtractor\obj\Debug\YandexMusicCacheExtractor.pdb
